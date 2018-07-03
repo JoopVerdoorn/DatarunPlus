@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="159" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="160" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="162" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="165" pc="268435585" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="166" pc="268435604" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="167" pc="268435628" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="168" pc="268435652" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="169" pc="268435676" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="170" pc="268435700" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="171" pc="268435724" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="172" pc="268435748" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="173" pc="268435772" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="174" pc="268435796" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="175" pc="268435820" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="176" pc="268435844" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="177" pc="268435868" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="178" pc="268435892" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="179" pc="268435916" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="180" pc="268435940" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="181" pc="268435964" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="182" pc="268435988" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="183" pc="268436012" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="184" pc="268436036" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="186" pc="268436060" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="187" pc="268436077" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="191" pc="268436093" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="192" pc="268436134" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="195" pc="268436150" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="196" pc="268436191" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="198" pc="268436207" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="203" pc="268436239" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="205" pc="268436243" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="206" pc="268436254" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="209" pc="268436277" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="210" pc="268436290" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="211" pc="268436303" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="212" pc="268436345" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="213" pc="268436367" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="214" pc="268436400" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="215" pc="268436422" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="216" pc="268436459" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="218" pc="268436478" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="221" pc="268436506" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="223" pc="268436519" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="224" pc="268436536" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="226" pc="268436564" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="228" pc="268436589" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="229" pc="268436605" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="230" pc="268436647" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="235" pc="268436693" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="236" pc="268436697" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="238" pc="268436716" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="239" pc="268436747" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="242" pc="268436793" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="243" pc="268436812" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="244" pc="268436828" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="245" pc="268436844" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="246" pc="268436860" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="253" pc="268436877" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="254" pc="268436881" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="256" pc="268436894" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="257" pc="268436907" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="258" pc="268436920" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="260" pc="268436933" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="261" pc="268436946" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="263" pc="268436959" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="269" pc="268436973" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="270" pc="268436977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="273" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="274" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="275" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="276" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="277" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="279" pc="268436996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="280" pc="268437010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="281" pc="268437026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="282" pc="268437042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="283" pc="268437058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="285" pc="268437077" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="286" pc="268437093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="287" pc="268437109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="288" pc="268437125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="292" pc="268437141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="293" pc="268437169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="296" pc="268437201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="297" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="299" pc="268437231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="301" pc="268437244" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="302" pc="268437258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="304" pc="268437274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="306" pc="268437287" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="307" pc="268437342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="308" pc="268437361" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="311" pc="268437416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="312" pc="268437423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="313" pc="268437436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="317" pc="268437458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="318" pc="268437465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="320" pc="268437472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="321" pc="268437485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="322" pc="268437501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="326" pc="268437529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="327" pc="268437536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="328" pc="268437543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="329" pc="268437568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="331" pc="268437578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="332" pc="268437615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="337" pc="268437637" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="338" pc="268437666" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="339" pc="268437680" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="340" pc="268437737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="341" pc="268437757" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="343" pc="268437803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="347" pc="268437822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="348" pc="268437839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="355" pc="268437885" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="356" pc="268437914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="357" pc="268437943" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="358" pc="268437972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="359" pc="268437985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="360" pc="268437998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="361" pc="268438011" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="364" pc="268438033" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="365" pc="268438047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="366" pc="268438075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="373" pc="268438091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="379" pc="268438105" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="380" pc="268438121" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="381" pc="268438128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="382" pc="268438135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="383" pc="268438148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="384" pc="268438158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="385" pc="268438171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="386" pc="268438191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="387" pc="268438207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="388" pc="268438217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="389" pc="268438237" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="390" pc="268438253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="391" pc="268438263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="392" pc="268438283" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="393" pc="268438299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="394" pc="268438309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="395" pc="268438329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="396" pc="268438345" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="400" pc="268438361" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="401" pc="268438378" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="402" pc="268438406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="405" pc="268438441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="406" pc="268438457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="407" pc="268438470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="408" pc="268438487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="409" pc="268438506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="410" pc="268438523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="411" pc="268438542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="412" pc="268438559" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="413" pc="268438578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="414" pc="268438595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="415" pc="268438614" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="416" pc="268438631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="419" pc="268438653" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="420" pc="268438670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="421" pc="268438698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="425" pc="268438733" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="426" pc="268438761" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="429" pc="268438778" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="430" pc="268438810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="433" pc="268438842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="436" pc="268438874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="437" pc="268438891" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="439" pc="268438926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="442" pc="268438958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="445" pc="268438990" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="448" pc="268439022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="457" pc="268439059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="460" pc="268439087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="461" pc="268439101" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="462" pc="268439159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="464" pc="268439217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="465" pc="268439242" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="466" pc="268439295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="470" pc="268439347" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="471" pc="268439351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="472" pc="268439358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="473" pc="268439375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="474" pc="268439379" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="475" pc="268439389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="476" pc="268439406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="477" pc="268439416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="478" pc="268439426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="479" pc="268439443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="480" pc="268439456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="483" pc="268439466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="484" pc="268439490" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="485" pc="268439523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="486" pc="268439530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="488" pc="268439541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="489" pc="268439600" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="490" pc="268439607" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="492" pc="268439677" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="493" pc="268439735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="496" pc="268439802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="497" pc="268439842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="498" pc="268439849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="499" pc="268439866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="500" pc="268439879" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="501" pc="268439889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="502" pc="268439906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="503" pc="268439925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="506" pc="268439935" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="507" pc="268439942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="508" pc="268439953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="512" pc="268439963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="513" pc="268440035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="516" pc="268440102" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="517" pc="268440109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="518" pc="268440116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="519" pc="268440123" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="520" pc="268440136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="522" pc="268440149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="523" pc="268440160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="525" pc="268440174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="526" pc="268440187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="527" pc="268440203" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="528" pc="268440219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="529" pc="268440235" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="530" pc="268440251" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="532" pc="268440270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="533" pc="268440286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="534" pc="268440302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="535" pc="268440318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="536" pc="268440334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="538" pc="268440347" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="539" pc="268440399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="540" pc="268440410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="542" pc="268440464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="545" pc="268440471" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="546" pc="268440482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="548" pc="268440542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="552" pc="268440552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="553" pc="268440569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="554" pc="268440586" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="556" pc="268440661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="558" pc="268440742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="559" pc="268440759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="560" pc="268440775" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="561" pc="268440782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="562" pc="268440799" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="564" pc="268440874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="567" pc="268440955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="568" pc="268440986" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="569" pc="268440993" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="570" pc="268441010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="572" pc="268441085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="578" pc="268441166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="579" pc="268441180" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="580" pc="268441213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="583" pc="268441244" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="587" pc="268441272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="588" pc="268441289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="589" pc="268441305" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="590" pc="268441318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="591" pc="268441337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="592" pc="268441348" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="593" pc="268441355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="594" pc="268441369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="595" pc="268441380" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="596" pc="268441391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="598" pc="268441410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="600" pc="268441429" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="601" pc="268441440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="603" pc="268441459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="604" pc="268441470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="606" pc="268441489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="610" pc="268441508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="611" pc="268441519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="612" pc="268441538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="613" pc="268441549" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="615" pc="268441568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="621" pc="268441593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="624" pc="268441597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="625" pc="268441625" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="626" pc="268441642" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="627" pc="268441674" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="628" pc="268441691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="630" pc="268441698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="632" pc="268441702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="633" pc="268441730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="634" pc="268441747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="636" pc="268441820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="639" pc="268441893" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="640" pc="268441910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="642" pc="268441917" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="644" pc="268441921" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="645" pc="268441953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="646" pc="268441981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="647" pc="268441998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="648" pc="268442068" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="649" pc="268442138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="651" pc="268442211" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="652" pc="268442281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="653" pc="268442351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="654" pc="268442421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="658" pc="268442491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="659" pc="268442495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="661" pc="268442523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="662" pc="268442540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="663" pc="268442557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="664" pc="268442618" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="666" pc="268442691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="667" pc="268442752" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="674" pc="268442825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="675" pc="268442832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="676" pc="268442839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="677" pc="268442843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="678" pc="268442876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="680" pc="268442889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="681" pc="268442906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="682" pc="268442910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="683" pc="268442920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="684" pc="268442937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="685" pc="268442941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="686" pc="268442951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="687" pc="268442968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="688" pc="268442978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="689" pc="268442988" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="690" pc="268443005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="691" pc="268443015" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="692" pc="268443025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="693" pc="268443042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="694" pc="268443052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="695" pc="268443062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="696" pc="268443079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="697" pc="268443086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="698" pc="268443096" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="699" pc="268443113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="700" pc="268443120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="701" pc="268443195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="703" pc="268443238" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="704" pc="268443255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="705" pc="268443259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="706" pc="268443269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="707" pc="268443286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="708" pc="268443290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="709" pc="268443300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="710" pc="268443317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="711" pc="268443324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="712" pc="268443334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="713" pc="268443351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="714" pc="268443358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="715" pc="268443368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="716" pc="268443385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="717" pc="268443416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="720" pc="268443426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="721" pc="268443483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="722" pc="268443497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="724" pc="268443516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="726" pc="268443532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="727" pc="268443560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="728" pc="268443592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="729" pc="268443596" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="732" pc="268443627" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="733" pc="268443644" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="734" pc="268443719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="735" pc="268443736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="736" pc="268443800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="737" pc="268443877" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="738" pc="268443888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="740" pc="268443976" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="741" pc="268444113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="742" pc="268444198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="743" pc="268444215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="745" pc="268444293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="748" pc="268444360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="749" pc="268444367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="750" pc="268444374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="751" pc="268444378" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="752" pc="268444411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="754" pc="268444424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="755" pc="268444441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="756" pc="268444445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="757" pc="268444455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="758" pc="268444472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="759" pc="268444476" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="760" pc="268444486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="761" pc="268444503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="762" pc="268444513" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="763" pc="268444523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="764" pc="268444540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="765" pc="268444550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="766" pc="268444560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="767" pc="268444577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="768" pc="268444587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="769" pc="268444597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="770" pc="268444614" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="771" pc="268444630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="772" pc="268444640" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="773" pc="268444657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="774" pc="268444664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="775" pc="268444681" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="777" pc="268444691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="779" pc="268444736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="780" pc="268444747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="782" pc="268444763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="783" pc="268444780" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="784" pc="268444787" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="785" pc="268444862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="787" pc="268444905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="788" pc="268444922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="789" pc="268444926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="790" pc="268444936" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="791" pc="268444953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="792" pc="268444957" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="793" pc="268444967" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="794" pc="268444984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="795" pc="268444994" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="796" pc="268445011" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="799" pc="268445021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="800" pc="268445078" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="801" pc="268445092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="803" pc="268445111" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="805" pc="268445127" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="806" pc="268445155" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="807" pc="268445187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="808" pc="268445191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="811" pc="268445222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="812" pc="268445239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="813" pc="268445314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="814" pc="268445331" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="816" pc="268445412" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="817" pc="268445489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="818" pc="268445500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="820" pc="268445588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="821" pc="268445685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="823" pc="268445770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="826" pc="268445837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="827" pc="268445844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="828" pc="268445851" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="829" pc="268445855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="830" pc="268445888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="832" pc="268445901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="833" pc="268445918" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="834" pc="268445922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="835" pc="268445932" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="836" pc="268445949" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="837" pc="268445953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="838" pc="268445963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="839" pc="268445980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="840" pc="268445990" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="841" pc="268446000" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="842" pc="268446017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="843" pc="268446027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="844" pc="268446037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="845" pc="268446054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="846" pc="268446064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="847" pc="268446074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="848" pc="268446091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="849" pc="268446107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="850" pc="268446117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="851" pc="268446134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="852" pc="268446141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="853" pc="268446158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="855" pc="268446168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="857" pc="268446213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="858" pc="268446224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="860" pc="268446240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="861" pc="268446257" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="862" pc="268446264" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="863" pc="268446339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="865" pc="268446382" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="866" pc="268446399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="867" pc="268446403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="868" pc="268446413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="869" pc="268446430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="870" pc="268446434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="871" pc="268446444" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="872" pc="268446461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="873" pc="268446471" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="874" pc="268446488" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="876" pc="268446498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="877" pc="268446555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="878" pc="268446569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="880" pc="268446588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="882" pc="268446604" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="883" pc="268446632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="884" pc="268446664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="885" pc="268446668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="888" pc="268446699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="889" pc="268446716" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="890" pc="268446791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="891" pc="268446808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="892" pc="268446889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="893" pc="268446966" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="894" pc="268446977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="896" pc="268447065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="897" pc="268447162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="899" pc="268447247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="903" pc="268447314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="904" pc="268447342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="905" pc="268447374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="907" pc="268447406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="908" pc="268447434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="910" pc="268447466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="911" pc="268447494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="912" pc="268447516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="913" pc="268447538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="916" pc="268447567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="918" pc="268447595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="919" pc="268447609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="920" pc="268447679" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="921" pc="268447749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="923" pc="268447819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="924" pc="268447889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="925" pc="268447959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="926" pc="268448029" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="927" pc="268448090" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="928" pc="268448160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="936" pc="268448222" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="937" pc="268448226" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="938" pc="268448239" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="941" pc="268448333" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="942" pc="268448337" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="943" pc="268448350" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="946" pc="268448415" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="947" pc="268448419" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Datarun-plus\\.\\source\\Datarunplus-vivoactive3.mc" lineNum="948" pc="268448441" symbol="fmtPace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="31" symbol="mElevationDiff"/>
+<entry field="true" id="122" symbol="lShowDemo"/>
+<entry field="true" id="44" symbol="uBacklight"/>
+<entry field="true" id="124" symbol="lHeartratefield"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="81" symbol="MyNumberTitle"/>
+<entry field="true" id="121" symbol="lCadence"/>
+<entry field="true" id="89" symbol="lDistDistance"/>
+<entry field="true" id="116" symbol="lTEffort"/>
+<entry field="true" id="92" symbol="lRacedistanceTitle"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="64" symbol="mLastLapTimerTime"/>
+<entry field="true" id="28" symbol="mlastaltitude"/>
+<entry field="true" id="25" symbol="Pace5"/>
+<entry field="true" id="24" symbol="Pace4"/>
+<entry field="true" id="23" symbol="Pace3"/>
+<entry field="true" id="22" symbol="Pace2"/>
+<entry field="true" id="21" symbol="Pace1"/>
+<entry field="true" id="45" symbol="uShowlaps"/>
+<entry field="true" id="26" symbol="mETA"/>
+<entry field="true" id="8389673" symbol="isTouchScreen"/>
+<entry field="true" id="90" symbol="lRacetimeTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="57" symbol="mStoppedDistance"/>
+<entry field="true" id="108" symbol="lShowlaps"/>
+<entry field="true" id="100" symbol="lAlertbeep"/>
+<entry field="true" id="79" symbol="lBlackBackground"/>
+<entry field="true" id="104" symbol="lColoringPaceFromAver"/>
+<entry field="true" id="86" symbol="lDistLastLap"/>
+<entry field="true" id="80" symbol="MyNumberError"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="37" symbol="uHeartratefield"/>
+<entry field="true" id="19" symbol="unitP"/>
+<entry field="true" id="43" symbol="uBlackBackground"/>
+<entry field="true" id="20" symbol="unitD"/>
+<entry field="true" id="14" symbol="mySettings"/>
+<entry field="true" id="126" symbol="lTimerLastLap"/>
+<entry field="true" id="115" symbol="lRacedistanceError"/>
+<entry field="true" id="63" symbol="mLastLapStoppedDistMarker"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry field="true" id="91" symbol="lBottomLeftMetric"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="93" symbol="lETAfrompace"/>
+<entry field="true" id="38" symbol="uPacefield"/>
+<entry id="70" method="true" symbol="EstimatedTimeSmall"/>
+<entry field="true" id="118" symbol="lLapPace"/>
+<entry field="true" id="76" symbol="lSPower"/>
+<entry field="true" id="82" symbol="lETArequiredpace"/>
+<entry field="true" id="54" symbol="uETAfromLap"/>
+<entry field="true" id="119" symbol="lLastLapPace"/>
+<entry field="true" id="109" symbol="lDistLap"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry field="true" id="110" symbol="lTimerLap"/>
+<entry field="true" id="32" symbol="mrealElevationGain"/>
+<entry field="true" id="117" symbol="lHeartrateZone"/>
+<entry field="true" id="33" symbol="mrealElevationLoss"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="127" symbol="lETAdeviation"/>
+<entry field="true" id="29" symbol="mElevationGain"/>
+<entry field="true" id="106" symbol="AppName"/>
+<entry field="true" id="30" symbol="mElevationLoss"/>
+<entry field="true" id="59" symbol="mLaps"/>
+<entry field="true" id="15" symbol="watchType"/>
+<entry id="69" method="true" symbol="EstimatedTime"/>
+<entry field="true" id="55" symbol="mStartStopPushed"/>
+<entry field="true" id="96" symbol="lAltitude"/>
+<entry id="71" method="true" symbol="fmtPace"/>
+<entry field="true" id="120" symbol="lPaceperkm"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="68" symbol="Garminfont"/>
+<entry field="true" id="95" symbol="lETAfromLap"/>
+<entry field="true" id="74" symbol="LauncherIcon"/>
+<entry field="true" id="47" symbol="uBottomLeftMetric"/>
+<entry field="true" id="75" symbol="Garmin1"/>
+<entry field="true" id="13" symbol="batStr"/>
+<entry field="true" id="103" symbol="lDistDisplay"/>
+<entry field="true" id="62" symbol="mLastLapStoppedTimeMarker"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="114" symbol="lBottomRightMetric"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="27" symbol="aaltitude"/>
+<entry field="true" id="102" symbol="lPaceper100m"/>
+<entry field="true" id="16" symbol="numberis24Hour"/>
+<entry id="9" object="true" symbol="DatarunplusApp"/>
+<entry field="true" id="42" symbol="uAveragedPace"/>
+<entry field="true" id="39" symbol="uRoundedPace"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="60" symbol="mLastLapDistMarker"/>
+<entry field="true" id="35" symbol="uTimerDisplay"/>
+<entry id="10" object="true" symbol="DatarunView"/>
+<entry field="true" id="123" symbol="lHeartrate"/>
+<entry field="true" id="52" symbol="umyNumber"/>
+<entry field="true" id="98" symbol="lBacklight"/>
+<entry field="true" id="36" symbol="uDistDisplay"/>
+<entry field="true" id="56" symbol="mStoppedTime"/>
+<entry field="true" id="48" symbol="uBottomRightMetric"/>
+<entry field="true" id="17" symbol="numberisTouchScreen"/>
+<entry field="true" id="85" symbol="lMiddlerightMetric"/>
+<entry field="true" id="99" symbol="lTimerAvgLap"/>
+<entry field="true" id="107" symbol="AppVersion"/>
+<entry field="true" id="12" symbol="pwr"/>
+<entry field="true" id="65" symbol="mLastLapElapsedDistance"/>
+<entry field="true" id="41" symbol="uColoringPaceFromAver"/>
+<entry field="true" id="66" symbol="mLastLapMovingSpeed"/>
+<entry id="73" module="true" symbol="Layouts"/>
+<entry field="true" id="111" symbol="lRoundedPace"/>
+<entry field="true" id="105" symbol="lMaxColoringPace"/>
+<entry field="true" id="8389402" symbol="distanceUnits"/>
+<entry field="true" id="101" symbol="lTimerTimer"/>
+<entry field="true" id="94" symbol="lSpeed"/>
+<entry field="true" id="77" symbol="lNoheartrate"/>
+<entry field="true" id="18" symbol="uHrZones"/>
+<entry field="true" id="40" symbol="uMaxColoringPace"/>
+<entry field="true" id="46" symbol="uMiddlerightMetric"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="50" symbol="uRacetime"/>
+<entry field="true" id="51" symbol="uTargetPaceMetric"/>
+<entry field="true" id="97" symbol="lETA"/>
+<entry field="true" id="87" symbol="lAveragedPace"/>
+<entry field="true" id="58" symbol="mPrevElapsedDistance"/>
+<entry field="true" id="84" symbol="lTimerDisplay"/>
+<entry field="true" id="83" symbol="lRequiredPower"/>
+<entry id="72" module="true" symbol="Menus"/>
+<entry field="true" id="61" symbol="mLastLapTimeMarker"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="88" symbol="lElevationGain"/>
+<entry field="true" id="78" symbol="lWarningFreq"/>
+<entry field="true" id="112" symbol="lAvgPace"/>
+<entry field="true" id="125" symbol="lElevationLoss"/>
+<entry field="true" id="67" symbol="secsWithAltitude"/>
+<entry field="true" id="113" symbol="lPacefield"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="53" symbol="uShowDemo"/>
+<entry field="true" id="49" symbol="uRacedistance"/>
+<entry field="true" id="11" symbol="stats"/>
+<entry field="true" id="34" symbol="mrealElevationDiff"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436238" name="mApp" stackId="1" startPc="268435525"/>
+<entry endPc="268436693" name="info" stackId="1" startPc="268436239"/>
+<entry endPc="268436876" name="info" stackId="1" startPc="268436697"/>
+<entry endPc="268439347" name="myTime" stackId="23" startPc="268439217"/>
+<entry endPc="268439347" name="strTime" stackId="24" startPc="268439217"/>
+<entry endPc="268440952" name="fCurrentPace" stackId="36" startPc="268440759"/>
+<entry endPc="268441163" name="fCurrentPace" stackId="37" startPc="268440955"/>
+<entry endPc="268441584" name="paceDeviation" stackId="39" startPc="268441348"/>
+<entry endPc="268441587" name="uTargetSpeed" stackId="38" startPc="268441318"/>
+<entry endPc="268447564" name="fieldLabel" stackId="41" startPc="268438105"/>
+<entry endPc="268447564" name="Averagespeedinmpersec" stackId="33" startPc="268438105"/>
+<entry endPc="268447564" name="fCurrentPace" stackId="34" startPc="268438105"/>
+<entry endPc="268447564" name="mDistance" stackId="30" startPc="268438105"/>
+<entry endPc="268447564" name="mColourCadence" stackId="22" startPc="268438105"/>
+<entry endPc="268447564" name="fTimer" stackId="28" startPc="268438105"/>
+<entry endPc="268447564" name="lTime" stackId="26" startPc="268438105"/>
+<entry endPc="268447564" name="fTimerSecs" stackId="27" startPc="268438105"/>
+<entry endPc="268447564" name="Startstatuspwrbr" stackId="43" startPc="268438105"/>
+<entry endPc="268447564" name="fieldValue" stackId="40" startPc="268438105"/>
+<entry endPc="268447564" name="fString" stackId="32" startPc="268438105"/>
+<entry endPc="268447564" name="x" stackId="29" startPc="268438105"/>
+<entry endPc="268447564" name="lDistance" stackId="31" startPc="268438105"/>
+<entry endPc="268447564" name="currentSpeedtest" stackId="35" startPc="268438105"/>
+<entry endPc="268447564" name="mCurrentHeartZone" stackId="21" startPc="268438105"/>
+<entry endPc="268447564" name="Endstatuspwrbr" stackId="44" startPc="268438105"/>
+<entry endPc="268447564" name="mTime" stackId="25" startPc="268438105"/>
+<entry endPc="268447564" name="mCurrentHeartRate" stackId="20" startPc="268438105"/>
+<entry endPc="268447564" name="isPace" stackId="42" startPc="268438105"/>
+<entry endPc="268448221" name="mtest" stackId="10" startPc="268436977"/>
+<entry endPc="268448221" name="mRacemin" stackId="17" startPc="268436977"/>
+<entry endPc="268448221" name="deviceID2" stackId="9" startPc="268436977"/>
+<entry endPc="268448221" name="mLapElapsedDistance" stackId="11" startPc="268436977"/>
+<entry endPc="268448221" name="deviceID1" stackId="8" startPc="268436977"/>
+<entry endPc="268448221" name="mLapSpeed" stackId="14" startPc="268436977"/>
+<entry endPc="268448221" name="mColourLine" stackId="6" startPc="268436977"/>
+<entry endPc="268448221" name="mColour" stackId="3" startPc="268436977"/>
+<entry endPc="268448221" name="mColourFont" stackId="4" startPc="268436977"/>
+<entry endPc="268448221" name="mRacesec" stackId="18" startPc="268436977"/>
+<entry endPc="268448221" name="mLastLapSpeed" stackId="15" startPc="268436977"/>
+<entry endPc="268448221" name="mLapTimerTime" stackId="13" startPc="268436977"/>
+<entry endPc="268448221" name="mTimerTime" stackId="12" startPc="268436977"/>
+<entry endPc="268448221" name="mColourFont1" stackId="5" startPc="268436977"/>
+<entry endPc="268448221" name="mRacehour" stackId="16" startPc="268436977"/>
+<entry endPc="268448221" name="mRacetime" stackId="19" startPc="268436977"/>
+<entry endPc="268448221" name="info" stackId="2" startPc="268436977"/>
+<entry endPc="268448221" name="mColourBackGround" stackId="7" startPc="268436977"/>
+<entry endPc="268448222" name="dc" stackId="1" startPc="268436973"/>
+<entry endPc="268448332" name="s" stackId="2" startPc="268448226"/>
+<entry endPc="268448333" name="secs" stackId="1" startPc="268448222"/>
+<entry endPc="268448414" name="s" stackId="2" startPc="268448337"/>
+<entry endPc="268448415" name="secs" stackId="1" startPc="268448333"/>
+<entry endPc="268448493" name="s" stackId="2" startPc="268448419"/>
+<entry endPc="268448494" name="secs" stackId="1" startPc="268448415"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="DatarunplusApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="DatarunplusApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DatarunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="DatarunView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Calculations we need to do every second even when the data field is not visible<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerLap" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Store last lap quantities and set lap markers<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Current activity is ended<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DatarunView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Do necessary calculations and draw fields.<br/> This will be called once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="EstimatedTime" parent="DatarunView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="EstimatedTimeSmall" parent="DatarunView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fmtPace" parent="DatarunView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="DatarunView" type="class"/>
+<dataEntry offset="773" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="852" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="891" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="922" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="961" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="992" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1023" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1470" parentId="globals" symbolId="DatarunplusApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
