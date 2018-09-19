@@ -233,21 +233,13 @@ class DatarunView extends Toybox.WatchUi.DataField {
 
     //! Store last lap quantities and set lap markers
     function onTimerLap() {
-        var info = Activity.getActivityInfo();
+		Lapaction ();
+	}
 
-        mLastLapTimerTime        = (info.timerTime - mLastLapTimeMarker) / 1000;
-        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
-
-
-        mLaps++;
-        mLastLapDistMarker           = info.elapsedDistance;
-        mLastLapTimeMarker           = info.timerTime;
-        mLastLapStoppedTimeMarker    = mStoppedTime;
-        mLastLapStoppedDistMarker    = mStoppedDistance;
-
-    }
-
-
+	//! Store last lap quantities and set lap markers after a step within a structured workout
+	function onWorkoutStepComplete() {
+		Lapaction ();
+	}
 
     //! Current activity is ended
     function onTimerReset() {
@@ -948,5 +940,14 @@ class DatarunView extends Toybox.WatchUi.DataField {
         return (s / 60).format("%0d") + ":" + (s % 60).format("%02d");
     }
 
-
+	function Lapaction () {
+        var info = Activity.getActivityInfo();
+        mLastLapTimerTime        = (info.timerTime - mLastLapTimeMarker) / 1000;
+        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
+        mLaps++;
+        mLastLapDistMarker           = info.elapsedDistance;
+        mLastLapTimeMarker           = info.timerTime;
+        mLastLapStoppedTimeMarker    = mStoppedTime;
+        mLastLapStoppedDistMarker    = mStoppedDistance;
+	}
 }
