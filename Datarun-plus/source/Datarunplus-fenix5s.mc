@@ -157,8 +157,6 @@ class DatarunView extends Toybox.WatchUi.DataField {
     hidden var mLastLapTimerTime            = 0;
     hidden var mLastLapElapsedDistance      = 0;
     hidden var mLastLapMovingSpeed          = 0;
-
-    hidden var secsWithAltitude = 0;
         
     hidden var mtrainingEffect = 0;
 
@@ -214,31 +212,6 @@ class DatarunView extends Toybox.WatchUi.DataField {
         if (uBacklight) {
              Attention.backlight(true);
         }
-		
-        //! Calculate elevation differences and rounding altitude
-        aaltitude = 0;
-        if (info.altitude != null) {        
-          aaltitude = Math.round(info.altitude).toNumber();
-          secsWithAltitude = secsWithAltitude + 1;
-          if (info.timerTime != null and info.timerTime > 1000) {
-          	secsWithAltitude = secsWithAltitude + 1;
-          	if (secsWithAltitude == 0 or secsWithAltitude == 1 ) {
-          		mlastaltitude = aaltitude;
-          	} else { 
-          		mrealElevationDiff = aaltitude - mlastaltitude;
-          	}
-          } else { 
-          	mrealElevationDiff = 0;       	
-          }
-          if (mrealElevationDiff > 0 ) {
-          	mrealElevationGain = mrealElevationDiff + mrealElevationGain;
-          } else {
-          	mrealElevationLoss =  mrealElevationLoss - mrealElevationDiff;
-          }  
-          mlastaltitude = aaltitude;
-          mElevationLoss = Math.round(mrealElevationLoss).toNumber();
-          mElevationGain = Math.round(mrealElevationGain).toNumber();
-        }
     }
 
     //! Store last lap quantities and set lap markers
@@ -249,7 +222,8 @@ class DatarunView extends Toybox.WatchUi.DataField {
 	//! Store last lap quantities and set lap markers after a step within a structured workout
 	function onWorkoutStepComplete() {
 		Lapaction ();
-	}    
+	}
+
 
     //! Timer transitions from stopped to running state
     function onTimerStart() {
@@ -759,13 +733,19 @@ class DatarunView extends Toybox.WatchUi.DataField {
             fieldValue = mLastLapSpeed;
             fieldLabel = "L-1Pace";
         }  else if (uMiddlerightMetric == 3) {
-           	fieldValue = aaltitude;
+           	fieldValue = (info.altitude != null) ? info.altitude : 0;
+		  	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "Altitude";
         }  else if (uMiddlerightMetric == 4) {
-           	fieldValue = mElevationGain;
+           	fieldValue = (info.totalAscent != null) ? info.totalAscent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL gain";
         }  else if (uMiddlerightMetric == 5) {
-           	fieldValue = mElevationLoss;
+           	fieldValue = (info.totalDescent != null) ? info.totalDescent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL loss";
         } else if (uMiddlerightMetric == 6) {
            	fieldValue = 0;
@@ -833,13 +813,19 @@ class DatarunView extends Toybox.WatchUi.DataField {
             fieldValue = mLastLapSpeed;
             fieldLabel = "L-1Pace";
         }  else if (uBottomLeftMetric == 3) {
-           	fieldValue = aaltitude;
-            fieldLabel = "Altitude";
+           	fieldValue = (info.altitude != null) ? info.altitude : 0;
+		  	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
+           	fieldLabel = "Altitude";
         }  else if (uBottomLeftMetric == 4) {
-           	fieldValue = mElevationGain;
+           	fieldValue = (info.totalAscent != null) ? info.totalAscent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL gain";
         }  else if (uBottomLeftMetric == 5) {
-           	fieldValue = mElevationLoss;
+           	fieldValue = (info.totalDescent != null) ? info.totalDescent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL loss";
         } else if (uBottomLeftMetric == 6) {
            	fieldValue = mETA*1000;
@@ -914,13 +900,19 @@ class DatarunView extends Toybox.WatchUi.DataField {
             fieldValue = mLastLapSpeed;
             fieldLabel = "L-1Pace";
         }  else if (uBottomRightMetric == 3) {
-           	fieldValue = aaltitude;
-            fieldLabel = "Altitude";
+           	fieldValue = (info.altitude != null) ? info.altitude : 0;
+		  	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
+           	fieldLabel = "Altitude";
         }  else if (uBottomRightMetric == 4) {
-           	fieldValue = mElevationGain;
+           	fieldValue = (info.totalAscent != null) ? info.totalAscent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL gain";
         }  else if (uBottomRightMetric == 5) {
-           	fieldValue = mElevationLoss;
+           	fieldValue = (info.totalDescent != null) ? info.totalDescent : 0;
+           	fieldValue = (unitD == 1609.344) ? fieldValue*3.2808 : fieldValue;
+           	fieldValue = Math.round(fieldValue).toNumber();
             fieldLabel = "EL loss";
         } else if (uBottomRightMetric == 6) {
            	fieldValue = mETA*1000;
@@ -1029,7 +1021,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         var s = (unitP/secs).toLong();
         return (s / 60).format("%0d") + ":" + (s % 60).format("%02d");
     }
-
+    
 	function Lapaction () {
         var info = Activity.getActivityInfo();
         mLastLapTimerTime        = (info.timerTime - mLastLapTimeMarker) / 1000;
@@ -1040,4 +1032,5 @@ class DatarunView extends Toybox.WatchUi.DataField {
         mLastLapStoppedTimeMarker    = mStoppedTime;
         mLastLapStoppedDistMarker    = mStoppedDistance;
 	}
+
 }
