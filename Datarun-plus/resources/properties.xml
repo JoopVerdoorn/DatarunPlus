@@ -36,7 +36,7 @@
     <!-- Beta name:
     <string id="AppName">Datarun-plus</string>
     -->
-    <string id="AppVersion">2.2</string>
+    <string id="AppVersion">3.3c</string>
     <string id="lTimerDisplay">Timer field</string>
     <string id="lTimerTimer">Timer</string>
     <string id="lTimerLap">Current lap time</string>

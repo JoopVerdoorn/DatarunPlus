@@ -1,2 +1,15 @@
 project.manifest = manifest.xml
 
+# fix autobuild to be a specific device
+base.sourcePath=$(fr935.sourcePath)
+ 
+# define the actual sourcePaths
+fenix5s.sourcePath		=	resources-fenix5s
+fenixchronos.sourcePath	=	resources-fenix5s
+fr735xt.sourcePath		=	resources-fr735xt
+fr645.sourcePath		=	resources-fr645
+fr645m.sourcePath		=	resources-fr645m
+fr935.sourcePath		=	resources-round-240x240
+vivoactive_hr.sourcePath=	resources-rectangle-148x205
+vivoactive3.sourcePath	=	resources-vivoactive3
+vivoactive3m.sourcePath	=	resources-vivoactive3
