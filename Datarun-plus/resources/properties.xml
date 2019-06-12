@@ -1,6 +1,6 @@
 <resources>
 	<fonts>
-    	<font id="Garmin1" filename="fonts/Oswald75metrics.fnt"/>
+    	<font id="Garmin1" filename="fonts/Roadway53-alleencijfers.fnt" antialias="true"/>
 	</fonts>
   <properties>
     <property id="pTimerDisplay" type="number">0</property>

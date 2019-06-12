@@ -16,9 +16,8 @@ class DatarunView extends Toybox.WatchUi.DataField {
 	using Toybox.System as Sys;
 	using Toybox.Lang;
 	using Toybox.WatchUi as Ui;
-	var stats = Sys.getSystemStats();
-	var pwr = stats.battery;
-	var batStr = Lang.format( "$1$%", [ pwr.format( "%2d" ) ] );
+	
+
 
 	//!Get device info
 	var mySettings = System.getDeviceSettings();
@@ -781,7 +780,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         if ( uBottomLeftMetric == 7 ) {
         	dc.drawText(69, 175, Garminfont, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
        	} else if (uBottomLeftMetric == 6) {    
-        				dc.drawText(68, 175, Graphics.FONT_NUMBER_MILD, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        				dc.drawText(68, 175, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         				
         } else if (uBottomLeftMetric == 0 or uBottomLeftMetric == 1 or uBottomLeftMetric == 2 or uBottomLeftMetric == 8 ) {
         	if (fieldValue > 0) {
@@ -864,7 +863,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         if ( uBottomRightMetric == 7 ) {
         	dc.drawText(170, 175, Garminfont, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
        	} else if (uBottomRightMetric == 6) {    
-        		dc.drawText(170, 175, Graphics.FONT_NUMBER_MILD, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        		dc.drawText(170, 175, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if (uBottomRightMetric == 0 or uBottomRightMetric == 1 or uBottomRightMetric == 2 or uBottomRightMetric == 8 ) {
         	if (fieldValue > 0) {
             	dc.drawText(168, 175, Garminfont, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
@@ -875,7 +874,9 @@ class DatarunView extends Toybox.WatchUi.DataField {
         dc.drawText(154, 209, Graphics.FONT_XTINY, fieldLabel, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         
         
-		//! Bottom battery indicator
+		//! Bottom battery indicatorvar stats = Sys.getSystemStats();
+		var stats = Sys.getSystemStats();
+		var pwr = stats.battery;
 		dc.setColor(mColourFont, Graphics.COLOR_TRANSPARENT);
 		dc.fillRectangle(92, 225, 54, 13);
 		dc.fillRectangle(146, 228, 3, 6);

@@ -17,7 +17,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
 	using Toybox.Lang;
 	var stats = Sys.getSystemStats();
 	var pwr = stats.battery;
-	var batStr = Lang.format( "$1$%", [ pwr.format( "%2d" ) ] );
+
 
 	//!Get device info
 	var mySettings = System.getDeviceSettings();
@@ -400,8 +400,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         		uShowDemo = true;        		
         	}
         }
-        
-       
+
         
 
      if (uShowDemo == false ) {
@@ -959,6 +958,8 @@ class DatarunView extends Toybox.WatchUi.DataField {
         
         
 		//! Bottom battery indicator
+		var stats = Sys.getSystemStats();
+		var pwr = stats.battery;
 		dc.setColor(mColourFont, Graphics.COLOR_TRANSPARENT);
 		dc.fillRectangle(92, 225, 54, 13);
 		dc.fillRectangle(146, 228, 3, 6);
