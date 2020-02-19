@@ -1,6 +1,7 @@
 <resources>
 	<fonts>
     	<font id="Garmin1" filename="fonts/Roadway53-alleencijfers.fnt" antialias="true"/>
+    	<font id="Garmin2" filename="fonts/Roadway57-alleencijfers.fnt" antialias="true"/>
 	</fonts>
   <properties>
     <property id="pTimerDisplay" type="number">0</property>
@@ -73,7 +74,7 @@
     <string id="lShowlaps">Show number of laps instead of clock with current time</string>
     <string id="MyNumberTitle">Enter license key</string>
     <string id="MyNumberError">Not valid, only numbers allowed!</string>
-    <string id="lRacedistanceTitle">Enter race distance in meters for estimated finish time</string>
+    <string id="lRacedistanceTitle">Enter race distance in meters or thousands of a mile (imperial/statute watch settings) for estimated finish time</string>
     <string id="lRacedistanceError">Not valid, only numbers allowed!</string>
     <string id="lRacetimeTitle">Enter desired finish time for estimated deviation of finish time (format like 03:59:00 required!)</string>
 	<string id="lHeartratefield">Heartrate field on middle row</string>
