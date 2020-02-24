@@ -583,7 +583,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
 
 			if ( uPacefield == 0 ) {
             	if (uHeartratefield != 2 ) {
-            		dc.drawText(127, 144, Graphics.FONT_NUMBER_MILD, fmtPace(fCurrentPace), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            		dc.drawText(127, 147, Graphics.FONT_NUMBER_MILD, fmtPace(fCurrentPace), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	} else {
             		dc.drawText(104, 135, Graphics.FONT_NUMBER_MEDIUM, fmtPace(fCurrentPace), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	}
@@ -591,7 +591,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
             	var fCurrentPace = 100/info.currentSpeed;
             	fString = "%.1f";
             	if (uHeartratefield != 2 ) {
-            		dc.drawText(127, 144, Graphics.FONT_NUMBER_MILD, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            		dc.drawText(127, 147, Graphics.FONT_NUMBER_MILD, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	} else {
             		dc.drawText(104, 135, Graphics.FONT_NUMBER_MEDIUM, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	}
@@ -599,7 +599,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
             	var fCurrentPace = 3.6*info.currentSpeed*1000/unitP;
             	fString = "%.1f";
             	if (uHeartratefield != 2 ) {
-            		dc.drawText(127, 144, Graphics.FONT_NUMBER_MILD, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            		dc.drawText(127, 147, Graphics.FONT_NUMBER_MILD, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	} else {
             		dc.drawText(104, 135, Graphics.FONT_NUMBER_HOT, fCurrentPace.format(fString), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             	}
@@ -692,10 +692,10 @@ class DatarunView extends Toybox.WatchUi.DataField {
         //! Centre left: heart rate 
         if (uHeartratefield != 2 ) {
         	if (uHeartratefield == 0) {
-            	dc.drawText(37, 144, Graphics.FONT_NUMBER_MILD, mCurrentHeartRate, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            	dc.drawText(37, 147, Graphics.FONT_NUMBER_MILD, mCurrentHeartRate, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         		dc.drawText(39, 109, Graphics.FONT_XTINY, "HR", Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             } else {
-            	dc.drawText(37, 144, Graphics.FONT_NUMBER_MILD, mCurrentHeartZone, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            	dc.drawText(37, 147, Graphics.FONT_NUMBER_MILD, mCurrentHeartZone, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         		dc.drawText(39, 109, Graphics.FONT_XTINY, "HR zone", Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             }
             		
@@ -768,17 +768,17 @@ class DatarunView extends Toybox.WatchUi.DataField {
         }	
         	
         if ( uMiddlerightMetric == 7 ) {
-        	dc.drawText(215, 144, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(215, 147, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
        	} else if (uMiddlerightMetric == 6) {    
-			dc.drawText(218, 144, Graphics.FONT_NUMBER_MILD, fieldValue , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.drawText(218, 147, Graphics.FONT_NUMBER_MILD, fieldValue , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if (uMiddlerightMetric == 0 or uMiddlerightMetric == 1 or uMiddlerightMetric == 2 or uMiddlerightMetric == 8 ) {
         	if (fieldValue > 0) {
-            	dc.drawText(218, 144, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            	dc.drawText(218, 147, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             }
         } else if ( uMiddlerightMetric == 3 or uMiddlerightMetric == 4 or uMiddlerightMetric == 5 or uMiddlerightMetric == 9 or uMiddlerightMetric == 10 or uMiddlerightMetric == 11 or uMiddlerightMetric == 13 ) {
-        	dc.drawText(215, 144, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(215, 147, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if ( uMiddlerightMetric == 12 ) {
-        	dc.drawText(201, 144, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(201, 147, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         }      
         dc.drawText(218, 109, Graphics.FONT_XTINY, fieldLabel, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
       
@@ -855,17 +855,17 @@ class DatarunView extends Toybox.WatchUi.DataField {
         }	
         	
         if ( uBottomLeftMetric == 7 ) {
-        	dc.drawText(75, 192, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(75, 195, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
        	} else if (uBottomLeftMetric == 6) {    
-			dc.drawText(74, 192, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.drawText(74, 195, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if (uBottomLeftMetric == 0 or uBottomLeftMetric == 1 or uBottomLeftMetric == 2 or uBottomLeftMetric == 8 ) {
         	if (fieldValue > 0) {
-            	dc.drawText(75, 192, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            	dc.drawText(75, 195, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             }
         } else if ( uBottomLeftMetric == 3 or uBottomLeftMetric == 4 or uBottomLeftMetric == 5 or uBottomLeftMetric == 9 or uBottomLeftMetric == 10 or uBottomLeftMetric == 11 ) {
-        	dc.drawText(75, 192, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(75, 195, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if ( uBottomLeftMetric == 12 ) {
-        	dc.drawText(75, 192, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(75, 195, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         }      
         dc.drawText(87, 226, Graphics.FONT_XTINY, fieldLabel, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
 
@@ -942,17 +942,17 @@ class DatarunView extends Toybox.WatchUi.DataField {
         }	
         	
         if ( uBottomRightMetric == 7 ) {
-        	dc.drawText(181, 192, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(181, 195, Graphics.FONT_NUMBER_MILD, EstimatedTimeSmall(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
        	} else if (uBottomRightMetric == 6) {    
-   			dc.drawText(184, 192, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+   			dc.drawText(184, 195, Graphics.FONT_MEDIUM, EstimatedTime(fieldValue) , Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if (uBottomRightMetric == 0 or uBottomRightMetric == 1 or uBottomRightMetric == 2 or uBottomRightMetric == 8 ) {
         	if (fieldValue > 0) {
-            	dc.drawText(179, 192, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+            	dc.drawText(179, 195, Graphics.FONT_NUMBER_MILD, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             }
         } else if ( uBottomRightMetric == 3 or uBottomRightMetric == 4 or uBottomRightMetric == 5 or uBottomRightMetric == 9 or uBottomRightMetric == 10 or uBottomRightMetric == 11) {
-        	dc.drawText(165, 192, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(165, 195, Graphics.FONT_NUMBER_MILD, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if ( uBottomRightMetric == 12 ) {
-        	dc.drawText(179, 192, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(179, 195, Graphics.FONT_NUMBER_MILD, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         }
         dc.drawText(169, 226, Graphics.FONT_XTINY, fieldLabel, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         

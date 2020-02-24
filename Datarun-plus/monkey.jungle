@@ -33,3 +33,6 @@ fenix6spro.sourcePath	= 	resources-round-240x240-extra
 fenix6.sourcePath 		= 	resources-round-260x260
 fenix6pro.sourcePath 	= 	resources-round-260x260-extra
 fenix6xpro.sourcePath 	= 	resources-round-280x280-extra
+fenix5splus.sourcePath	= 	resources-round-240x240-extra
+fenix5plus.sourcePath	= 	resources-round-240x240-extra
+fenix5xplus.sourcePath	= 	resources-round-240x240-extra
