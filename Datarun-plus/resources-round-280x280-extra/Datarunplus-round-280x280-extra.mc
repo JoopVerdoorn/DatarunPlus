@@ -452,7 +452,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         }
         if (uMiddlerightMetric == 13) {
         	dc.setColor(mColourCadence, Graphics.COLOR_TRANSPARENT);
-        	dc.fillRectangle(165, 93, 77, 19);
+        	dc.fillRectangle(193, 108, 90, 23);
 		}
 		
 		//! Draw separator lines
