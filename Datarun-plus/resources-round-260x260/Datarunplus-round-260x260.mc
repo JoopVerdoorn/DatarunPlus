@@ -968,8 +968,8 @@ class DatarunView extends Toybox.WatchUi.DataField {
 		dc.fillRectangle(102, 246, 54, 10);
 		
 		dc.setColor(mColourBackGround, Graphics.COLOR_TRANSPARENT);
-		var Startstatuspwrbr = 102 + pwr*0.5  ;
-		var Endstatuspwrbr = 54 - pwr*0.5 ;
+		var Startstatuspwrbr = 102 + pwr*0.54  ;
+		var Endstatuspwrbr = 54 - pwr*0.54 ;
 		dc.fillRectangle(Startstatuspwrbr, 246, Endstatuspwrbr, 10);		
         
       } else {

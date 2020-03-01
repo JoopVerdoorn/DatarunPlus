@@ -176,7 +176,6 @@ class DatarunView extends Toybox.WatchUi.DataField {
 			uRacedistance 		= 42195;
 		}
 
-
         if (System.getDeviceSettings().paceUnits == System.UNIT_STATUTE) {
             unitP = 1609.344;
         }

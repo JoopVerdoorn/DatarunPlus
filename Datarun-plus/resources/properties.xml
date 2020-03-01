@@ -2,6 +2,7 @@
 	<fonts>
     	<font id="Garmin1" filename="fonts/Roadway53-alleencijfers.fnt" antialias="true"/>
     	<font id="Garmin2" filename="fonts/Roadway57-alleencijfers.fnt" antialias="true"/>
+    	<font id="Garmin3" filename="fonts/Roadway62-alleencijfers.fnt" antialias="true"/>
 	</fonts>
   <properties>
     <property id="pTimerDisplay" type="number">0</property>

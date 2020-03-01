@@ -778,7 +778,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
         } else if ( uMiddlerightMetric == 3 or uMiddlerightMetric == 4 or uMiddlerightMetric == 5 or uMiddlerightMetric == 9 or uMiddlerightMetric == 10 or uMiddlerightMetric == 11 or uMiddlerightMetric == 13 ) {
         	dc.drawText(215, 144, Garminfont, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if ( uMiddlerightMetric == 12 ) {
-        	dc.drawText(201, 144, Garminfont, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(218, 144, Garminfont, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         }      
         dc.drawText(218, 109, Graphics.FONT_XTINY, fieldLabel, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
       
@@ -950,7 +950,7 @@ class DatarunView extends Toybox.WatchUi.DataField {
             	dc.drawText(179, 192, Garminfont, (isPace) ? fmtPace(fieldValue) : fieldValue, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
             }
         } else if ( uBottomRightMetric == 3 or uBottomRightMetric == 4 or uBottomRightMetric == 5 or uBottomRightMetric == 9 or uBottomRightMetric == 10 or uBottomRightMetric == 11) {
-        	dc.drawText(165, 192, Garminfont, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+        	dc.drawText(179, 192, Garminfont, (info.altitude != null) ? fieldValue : 0, Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         } else if ( uBottomRightMetric == 12 ) {
         	dc.drawText(179, 192, Garminfont, fieldValue.format("%.2f"), Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         }
@@ -968,8 +968,8 @@ class DatarunView extends Toybox.WatchUi.DataField {
 		dc.fillRectangle(102, 246, 54, 10);
 		
 		dc.setColor(mColourBackGround, Graphics.COLOR_TRANSPARENT);
-		var Startstatuspwrbr = 102 + pwr*0.5  ;
-		var Endstatuspwrbr = 54 - pwr*0.5 ;
+		var Startstatuspwrbr = 102 + pwr*0.54  ;
+		var Endstatuspwrbr = 54 - pwr*0.54 ;
 		dc.fillRectangle(Startstatuspwrbr, 246, Endstatuspwrbr, 10);		
         
       } else {
